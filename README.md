@@ -1,7 +1,5 @@
 # gmeam
 
-# AUTHOR: Robert C. Ehemann
-
 USE:
 
 extract to LAMMPS root directory: /path/to/lammps/
